@@ -46,3 +46,5 @@ sysinfo.txt
 *.VC.db
 *.pidb.meta
 *.sln
+UnityApp/.vsconfig
+/UnityApp/UserSettings
