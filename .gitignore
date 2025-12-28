@@ -1,0 +1,48 @@
+# =====================================
+# Global Visual Studio & Rider
+# =====================================
+.vs/
+*.user
+*.suo
+*.userprefs
+*.idea/
+*.sln.docstates
+
+# =====================================
+# C# / .NET Build
+# =====================================
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.cache
+*.log
+
+# BuildOutput folder for centralized build outputs
+BuildOutput/
+
+# =====================================
+# Unity Specific
+# =====================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/        # Unity might create its own obj
+[Bb]uilds/
+[Bb]uild/
+MemoryCaptures/
+sysinfo.txt
+*.pidb
+*.booproj
+*.unityproj
+*.svd
+*.userprefs
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.sln
