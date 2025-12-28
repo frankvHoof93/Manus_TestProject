@@ -1,0 +1,14 @@
+{
+    "name": "dev.vanHoof.ManusTest.Utils",
+    "rootNamespace": "dev.vanHoof.ManusTest.Utils",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

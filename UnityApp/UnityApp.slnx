@@ -1,0 +1,9 @@
+﻿<Solution>
+  <Project Path="dev.vanHoof.ManusTest.Core.csproj" />
+  <Project Path="dev.vanHoof.ManusTest.WorldObjects.Managers.csproj" />
+  <Project Path="ThirdParty.Radishmouse.csproj" />
+  <Project Path="dev.vanHoof.ManusTest.UI.Components.csproj" />
+  <Project Path="dev.vanHoof.ManusTest.WorldObjects.Objects.csproj" />
+  <Project Path="dev.vanHoof.ManusTest.UI.csproj" />
+  <Project Path="dev.vanHoof.ManusTest.Utils.csproj" />
+</Solution>

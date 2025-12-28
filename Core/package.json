@@ -1,0 +1,9 @@
+{
+  "name": "dev.vanhoof.manustest.core",
+  "version": "1.0.0",
+  "displayName": "Manus Test Core",
+  "description": "Engine-agnostic core library containing city, street, and pathfinding logic.",
+  "author": {
+    "name": "FMP van Hoof"
+  }
+}

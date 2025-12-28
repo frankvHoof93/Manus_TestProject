@@ -1,0 +1,19 @@
+{
+    "name": "dev.vanHoof.ManusTest.WorldObjects.Managers",
+    "rootNamespace": "dev.vanHoof.ManusTest.WorldObjects.Managers",
+    "references": [
+        "dev.vanHoof.ManusTest.Core",
+        "dev.vanHoof.ManusTest.UI.Components",
+        "dev.vanHoof.ManusTest.Utils",
+        "dev.vanHoof.ManusTest.WorldObjects.Objects"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

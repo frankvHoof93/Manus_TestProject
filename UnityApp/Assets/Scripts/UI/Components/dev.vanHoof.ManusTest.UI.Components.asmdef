@@ -1,0 +1,17 @@
+{
+    "name": "dev.vanHoof.ManusTest.UI.Components",
+    "rootNamespace": "dev.vanHoof.ManusTest.UI.Components",
+    "references": [
+        "dev.vanHoof.ManusTest.Core",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

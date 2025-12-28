@@ -1,0 +1,18 @@
+{
+    "name": "dev.vanHoof.ManusTest.WorldObjects.Objects",
+    "rootNamespace": "dev.vanHoof.ManusTest.WorldObjects.Objects",
+    "references": [
+        "dev.vanHoof.ManusTest.Core",
+        "ThirdParty.Radishmouse",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
