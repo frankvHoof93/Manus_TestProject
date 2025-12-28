@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <!-- Base folder for all build outputs -->
+    <BaseOutputPath>$(SolutionDir)BuildOutput\</BaseOutputPath>
+
+    <!-- Intermediate files (obj) go inside each project-folder -->
+    <BaseIntermediateOutputPath>$(BaseOutputPath)$(MSBuildProjectName)\obj\</BaseIntermediateOutputPath>
+    <MSBuildProjectExtensionsPath>$(BaseIntermediateOutputPath)\</MSBuildProjectExtensionsPath>
+  </PropertyGroup>
+</Project>
